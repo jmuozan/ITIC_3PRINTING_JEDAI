@@ -30,7 +30,7 @@ facet normal nx ny nz
   endloop
 endfacet
 ```
-
+ 
 #### Vectors Normals
 
 - `facet normal 0.0 0.0 -1.0`: Defineix el vector normal a la faceta.
