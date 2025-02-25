@@ -88,6 +88,6 @@ El con en aquest codi STL:
 
 ## Conclusió
 
-Aquest arxiu STL defineix un con amb una base circular de radi 1 centrada a l'origen, i una alçada de 2 unitats. La base està discretitzada en 10 segments, i tot l'objecte està format per 20 triangles: 10 per la base i 10 per la superfície lateral.
+L'arxiu STL [cone.stl](./cone.stl)defineix un con amb una base circular de radi 1 centrada a l'origen, i una alçada de 2 unitats. La base està discretitzada en 10 segments, i tot l'objecte està format per 20 triangles: 10 per la base i 10 per la superfície lateral.
 
-La representació mitjançant facetes triangulars és essencial per a la impressió 3D, ja que els algorismes de laminació (slicing) treballen dividint l'objecte en capes horitzontals a partir d'aquesta representació poligonal.
+La representació mitjançant facetes triangulars és essencial per a la impressió 3D, ja que els algoritmes de laminació (slicing) treballen dividint l'objecte en capes horitzontals a partir d'aquesta representació poligonal.
