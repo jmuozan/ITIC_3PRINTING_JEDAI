@@ -9,7 +9,7 @@ repo_url: 'https://github.com/jmuozan/ITIC_3PRINTING_JEDAI'
 
 nav:
   - Home: index.md
-  - About: about/me.md
+  - About: about/me.md  
   - Reflections:
       - Term 1:
           - Landing: term1/Landing.md
