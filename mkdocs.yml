@@ -5,7 +5,7 @@ copyright: Copyleft 2023 "Jorge Muñoz" - GNU Free Documentation License
 repo_name: 'ITIC_3PRINTING_JEDAI'
 site_url: https://jedai.itic.cat
 repo_url: 'https://github.com/jmuozan/ITIC_3PRINTING_JEDAI'
-
+ 
 
 nav:
   - Home: index.md
