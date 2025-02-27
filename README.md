@@ -19,7 +19,7 @@
 - Programmatic design using OpenSCAD or similar
 - **Demo**: AI-assisted design using Meshy
   - Text-to-3D model generation
-  - Modifying AI-generated designs
+  - Modifying AI-generated designs 
   - Advantages and limitations
 
 ## 4. Preparing Models for Printing (45-60 mins)
