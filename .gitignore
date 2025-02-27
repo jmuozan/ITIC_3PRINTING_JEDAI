@@ -1,2 +1,5 @@
-/venv
-MDEF_website-main
+site/
+TO-DO.md
+*.DS_Store
+venv
+aux/
