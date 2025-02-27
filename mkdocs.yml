@@ -2,14 +2,14 @@
 site_name: 3D PRINTING WORKSHOP ITIC BCN
 site_description: 3DPRINTING WORKSHOP ITIC BCN
 site_author: Jorge Muñoz
-copyright: Copyleft 2023 "Jorge Muñoz" - GNU Free Documentation License
+copyright: Copyleft 2023 "Josep" - GNU Free Documentation License
 repo_name: 'Name : Taller impressió'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - Home: index.md
+  - Home: index.md 
   - About: about/me.md
   - Master project:
       - Initial ideas: project/project.md
